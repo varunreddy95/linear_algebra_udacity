@@ -15,9 +15,9 @@
 
  Rookie mode will build everything from scratch and will have to put in additional effort than Challenger mode. Rookie mode is for new learners of Java and Challenger mode is for existing users.
 
- * Rookie
+ * Rookie - follow the steps at [Rookie](docs/rookie.md)
 
- * Challenger
+ * Challenger - follow the steps at [Challenger](docs/challenger.md)
 
  Collaboration between Sachin and Varun, follow the github profiles to view timeline of execution.
 
